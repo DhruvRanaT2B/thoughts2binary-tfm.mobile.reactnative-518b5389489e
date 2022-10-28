@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="125" viewBox="0 0 114 125">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-No_Bookings);
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        fill: #00a6a4;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-No_Bookings">
+      <rect width="114" height="125"/>
+    </clipPath>
+  </defs>
+  <g id="No_Bookings" data-name="No Bookings" class="cls-1">
+    <g id="Group_1416" data-name="Group 1416" class="cls-2" transform="translate(-131 -331)">
+      <path id="ic_assignment_24px" class="cls-3" d="M90.111,11.889H67.353a16.269,16.269,0,0,0-30.707,0H13.889A10.921,10.921,0,0,0,3,22.778V99a10.921,10.921,0,0,0,10.889,10.889H90.111A10.921,10.921,0,0,0,101,99V22.778A10.921,10.921,0,0,0,90.111,11.889ZM52,11.889a5.444,5.444,0,1,1-5.444,5.444A5.46,5.46,0,0,1,52,11.889ZM62.889,88.111H24.778V77.222H62.889ZM79.222,66.333H24.778V55.444H79.222Zm0-21.778H24.778V33.667H79.222Z" transform="translate(128 330)"/>
+      <circle id="Ellipse_197" data-name="Ellipse 197" class="cls-4" cx="25" cy="25" r="25" transform="translate(195 406)"/>
+      <g id="exclamation" transform="translate(199.25 410.25)">
+        <g id="Group_1373" data-name="Group 1373">
+          <g id="Group_1372" data-name="Group 1372">
+            <path id="Path_12738" data-name="Path 12738" class="cls-3" d="M20.75,0A20.75,20.75,0,1,0,41.5,20.75,20.738,20.738,0,0,0,20.75,0Z"/>
+          </g>
+        </g>
+        <g id="Group_1375" data-name="Group 1375" transform="translate(19.129 10.446)">
+          <g id="Group_1374" data-name="Group 1374">
+            <path id="Path_12739" data-name="Path 12739" class="cls-4" d="M237.621,128.877A1.621,1.621,0,0,0,236,130.5v10.439a1.621,1.621,0,0,0,3.242,0V130.5A1.621,1.621,0,0,0,237.621,128.877Z" transform="translate(-236 -128.877)"/>
+          </g>
+        </g>
+        <g id="Group_1377" data-name="Group 1377" transform="translate(18.562 26.113)">
+          <g id="Group_1376" data-name="Group 1376">
+            <circle id="Ellipse_196" data-name="Ellipse 196" class="cls-4" cx="2.188" cy="2.188" r="2.188"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

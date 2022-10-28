@@ -1,0 +1,51 @@
+export enum LOCAL_STORAGE {
+  AUTH_TOKEN = 'auth_token',
+  DRIVER_ID = 'driver_id',
+  ORGANISATION_ID = 'org_id',
+  DRIVER_NAME = 'driver_name',
+  COST_CENTRE_ID = 'cost_centre_id',
+  BRANCH_ID = 'branch_id',
+  CREATE_BOOKING_FOR_OTHERS = 'create_booking_for_others',
+  BOOKING_WRITE = 'booking_write',
+  BOOKING_DELETE = 'booking_delete',
+  BOOKING_CANCEL = 'booking_cancel',
+  VIEW_ALL_BOOKINGS = 'view_all_bookings',
+  VIEW_BRANCH_BOOKINGS = 'view_branch_bookings',
+  VEHICLE_CHECK_IN = 'vehicle_check_in',
+  VEHICLE_CHECK_OUT = 'vehicle_check_out',
+  REMEMBER_ME = 'remember_me',
+}
+
+export enum FILTERS {
+  VEHICLE_CLASS = 'Vehicle Class',
+  BODY_TYPE = 'Body Type',
+  FUEL_TYPE = 'Fuel Type',
+  GRADE = 'Grade',
+  COST_CENTRE = 'Cost Centre',
+  SEATS = 'Seats',
+  DOORS = 'Doors',
+  YEAR = 'Year',
+  ODOMETER = 'Odometer(in miles)',
+  BRANCH = 'Branch',
+  STATUS = 'Status',
+  PURPOSE_OF_TRIP = 'Purpose of Trip',
+  BOOKING_TYPE = 'Booking Type',
+  INCIDENT_TYPE = 'Incident Type',
+  INCIDENT_SUB_TYPE = 'Incident Subtype',
+  IS_CRITICAL = 'Is Critical',
+  IS_VERIFIED = 'Is Verified',
+  VEHICLE_NAME = 'Vehicle Name',
+}
+export const temp = {
+  test: 'test',
+}
+export const DAYS_LIST = [
+  'Sunday',
+  'Monday',
+  'Tuesday',
+  'Wednesday',
+  'Thursday',
+  'Friday',
+  'Saturday',
+  'Sunday',
+]

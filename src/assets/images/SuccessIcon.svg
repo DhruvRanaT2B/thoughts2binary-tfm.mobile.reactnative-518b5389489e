@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Success_Icon);
+      }
+
+      .cls-2 {
+        opacity: 0.4;
+      }
+
+      .cls-3 {
+        fill: #00bbd3;
+      }
+
+      .cls-4 {
+        fill: #3a2c51;
+      }
+    </style>
+    <clipPath id="clip-Success_Icon">
+      <rect width="96" height="96"/>
+    </clipPath>
+  </defs>
+  <g id="Success_Icon" data-name="Success Icon" class="cls-1">
+    <g id="check_6_" data-name="check (6)" class="cls-2">
+      <path id="Path_12740" data-name="Path 12740" class="cls-3" d="M120.662,105.319h0a3.449,3.449,0,0,1-2.648-1.2L99.841,84.378a3.578,3.578,0,1,1,5.3-4.814l15.645,16.969,43.326-43.205a3.49,3.49,0,0,1,5.055,0,3.6,3.6,0,0,1,0,5.055l-45.973,45.853A3.278,3.278,0,0,1,120.662,105.319Z" transform="translate(-76.133 -40.21)"/>
+      <path id="Path_12741" data-name="Path 12741" class="cls-4" d="M47.9,95.8A47.9,47.9,0,1,1,47.9,0a3.546,3.546,0,0,1,3.61,3.61,3.546,3.546,0,0,1-3.61,3.61A40.678,40.678,0,1,0,88.577,47.9a3.61,3.61,0,0,1,7.221,0A48.024,48.024,0,0,1,47.9,95.8Z"/>
+    </g>
+  </g>
+</svg>

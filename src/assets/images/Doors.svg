@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Doors_1);
+      }
+
+      .cls-2 {
+        fill: #1d6392;
+      }
+    </style>
+    <clipPath id="clip-Doors_1">
+      <rect width="13" height="13"/>
+    </clipPath>
+  </defs>
+  <g id="Doors_1" data-name="Doors – 1" class="cls-1">
+    <g id="car-door_1_" data-name="car-door (1)" transform="translate(-26 -37.661)">
+      <path id="Path_12752" data-name="Path 12752" class="cls-2" d="M38.327,38H32.1a.677.677,0,0,0-.441.169l-5.423,4.714A.672.672,0,0,0,26,43.39v2.333l.626,3.81a.945.945,0,0,0,.93.788h10.5A.952.952,0,0,0,39,49.37V38.681A.68.68,0,0,0,38.327,38Zm-.815,8.648H35.5a.551.551,0,1,1,0-1.1h2.014a.551.551,0,0,1,0,1.1Zm.64-1.782a.15.15,0,0,1-.15.143H27.052a.148.148,0,0,1-.148-.143v-1.4a.138.138,0,0,1,.052-.1l5.112-4.407a.136.136,0,0,1,.092-.028H38a.138.138,0,0,1,.15.128Z" transform="translate(0)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Color_1);
+      }
+
+      .cls-2 {
+        fill: #1d6392;
+      }
+    </style>
+    <clipPath id="clip-Color_1">
+      <rect width="13" height="13"/>
+    </clipPath>
+  </defs>
+  <g id="Color_1" data-name="Color – 1" class="cls-1">
+    <g id="paint-brush" transform="translate(0.084 -32.854)">
+      <g id="Group_1503" data-name="Group 1503" transform="translate(4.984 33.786)">
+        <g id="Group_1502" data-name="Group 1502" transform="translate(0 0)">
+          <path id="Path_12758" data-name="Path 12758" class="cls-2" d="M206.4,34.1a1.075,1.075,0,0,0-.751-.316h-.012a1.074,1.074,0,0,0-.746.3l-6.021,5.757a2.53,2.53,0,0,1,1.555,1.183,2.845,2.845,0,0,1,.262.581l5.731-5.994a1.08,1.08,0,0,0-.017-1.51Z" transform="translate(-198.872 -33.786)"/>
+        </g>
+      </g>
+      <g id="Group_1505" data-name="Group 1505" transform="translate(0 40.515)">
+        <g id="Group_1504" data-name="Group 1504">
+          <path id="Path_12759" data-name="Path 12759" class="cls-2" d="M4.426,302.27l-.091,0a2.466,2.466,0,0,0-1.423.472,5.668,5.668,0,0,0-1.057,1.335A3.418,3.418,0,0,1,0,305.141c.406,1.072,1.913,1.511,2.9,1.535h.107a3.223,3.223,0,0,0,2.976-1.517A1.986,1.986,0,0,0,4.426,302.27Z" transform="translate(0 -302.268)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

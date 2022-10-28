@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "457220378636",
+    "project_id": "tfm-react-native",
+    "storage_bucket": "tfm-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457220378636:android:272dc3b9044e39488a9e29",
+        "android_client_info": {
+          "package_name": "com.thoughts2binary.tfm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457220378636-0strlfhd58hjt7uobm64e3mrt8lhl125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5u_5tWE3aTONK2q_TOTmgnuKEaqp-KtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457220378636-0strlfhd58hjt7uobm64e3mrt8lhl125.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

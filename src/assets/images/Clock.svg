@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-CLock);
+      }
+
+      .cls-2 {
+        fill: "currentColor";
+      }
+    </style>
+    <clipPath id="clip-CLock">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="CLock" class="cls-1">
+    <path fill="currentColor" id="ic_schedule_24px" class="cls-2" d="M9.992,2A8,8,0,1,0,18,10,8,8,0,0,0,9.992,2ZM10,16.4A6.4,6.4,0,1,1,16.4,10,6.4,6.4,0,0,1,10,16.4ZM10.4,6H9.2v4.8l4.2,2.52.6-.984L10.4,10.2Z" transform="translate(-2 -2)"/>
+  </g>
+</svg>

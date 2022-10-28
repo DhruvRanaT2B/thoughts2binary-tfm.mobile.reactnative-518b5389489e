@@ -1,0 +1,26 @@
+const STRINGS = {
+  PLACEHOLDER_COMMENT: 'Write your note here...',
+  LABEL_VEHICLE_NAME: 'Vehicle Name',
+  LABEL_TYPE: 'Type',
+  LABEL_SUB_TYPE: 'Sub Type',
+  LABEL_REPORTED_ON: 'Reported On',
+  LABEL_REPORTED_BY: 'Reported By',
+  LABEL_LAST_UPDATED_ON: 'Last Updated On',
+  LABEL_CUSTOM_ATTRIBUTES: 'Other Details',
+  LABEL_STATUS: 'Status',
+  LABEL_VEHICLE_REGISTRATION_NUMBER: 'Vehicle Registration No.',
+  LABEL_REPORTER_CONTACT: 'Reporter Contact',
+  LABEL_BOOKING_ID: 'Booking ID',
+  SOMETHING_WENT_WRONG: 'Oops! Something went wrong.',
+  LABEL_TYPE_OF_NOTE: 'Type of Note',
+  PLACEHOLDER_TYPE_OF_NOTE: 'Select type',
+  TYPE_INFO: 'Info',
+  TYPE_ALERT: 'Alert',
+  TYPE_WARNING: 'Warning',
+  BUTTON_ADD_NOTE: 'Add Note',
+  NOTE_SAVED_SUCCESSFULLY: 'Note saved successfully',
+  LABEL_ADDRESS: 'Address',
+  LABEL_ADDITIONAL_LOCATION_DETAILS: 'Additional Location Details',
+}
+
+export default STRINGS

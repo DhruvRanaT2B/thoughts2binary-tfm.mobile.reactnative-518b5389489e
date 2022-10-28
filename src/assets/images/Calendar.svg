@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Calendar);
+      }
+
+      .cls-2 {
+        fill: "currentColor";
+      }
+    </style>
+    <clipPath id="clip-Calendar">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="Calendar" class="cls-1">
+    <g id="calendar_4_" data-name="calendar (4)">
+      <path fill="currentColor" id="Path_25" data-name="Path 25" class="cls-2" d="M13.938,1.25H12.5V.5a.5.5,0,0,0-1,0v.75h-7V.5a.5.5,0,1,0-1,0v.75H2.063A2.065,2.065,0,0,0,0,3.313V13.938A2.065,2.065,0,0,0,2.063,16H13.938A2.065,2.065,0,0,0,16,13.938V3.313A2.065,2.065,0,0,0,13.938,1.25ZM15,13.938A1.062,1.062,0,0,1,13.938,15H2.063A1.062,1.062,0,0,1,1,13.938V5.656A.156.156,0,0,1,1.156,5.5H14.844A.156.156,0,0,1,15,5.656Z"/>
+    </g>
+  </g>
+</svg>
